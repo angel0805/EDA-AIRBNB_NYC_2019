@@ -1,0 +1,31 @@
+1. id: ID único del anuncio de Airbnb.
+
+2. name: Nombre de la propiedad anunciada.
+
+3. host_id: ID único del anfitrión.
+
+4. host_name: Nombre del anfitrión.
+
+5. neighbourhood_group: Región general de la ubicación (barrio), por ejemplo, Brooklyn, Manhattan, Queens, Staten Island y Bronx.
+
+6. neighbourhood: Barrio específico donde se encuentra la propiedad.
+
+7. latitude: Coordenada de latitud de la propiedad.
+
+8. longitude: Coordenada de longitud de la propiedad.
+
+9. room_type: Tipo de habitación (por ejemplo, Habitación privada, Habitación compartida, Casa/apartamento entero).
+
+10. price: Precio por noche (en USD).
+
+11. minimum_nights: Número mínimo de noches que los huéspedes deben quedarse.
+
+12. number_of_reviews: Número de opiniones que ha recibido el anuncio.
+
+13. last_review: Fecha de la última opinión.
+
+14. reviews_per_month: Número promedio de opiniones por mes.
+
+15. calculated_host_listings_count: Número total de propiedades anunciadas por el anfitrión.
+
+16. availability_365: Número de días que la propiedad está disponible en un año.
